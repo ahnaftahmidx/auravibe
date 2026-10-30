@@ -1,0 +1,10 @@
+{
+  "name": "AURAVIBE — Where Every Beat Has a Feeling",
+  "short_name": "AURAVIBE",
+  "description": "A music universe by Ahnaf.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090713",
+  "theme_color": "#090713",
+  "icons": [{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
